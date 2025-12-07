@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ishmeet Singh  
+# 👋 Hi, I'm Ishmeet
 
 ### 🛡️ Cybersecurity Student | Offensive Security & Cloud Learner  
 
