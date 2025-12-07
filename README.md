@@ -32,13 +32,6 @@
 
 ---
 
-## 📈 Learning Roadmap
-- **Sem 2:** Networking + Network Security  
-- **Sem 3:** Python + Offensive Security  
-- **Sem 4:** Cloud Security (AWS)  
-
----
-
 ## ✉️ Contact
 📧 *your email here*  
 
