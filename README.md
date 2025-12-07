@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Ishmeet Singh  
 
-<!--
-**ishmweet/ishmweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student | Offensive Security & Cloud Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+- Networking fundamentals & subnetting  
+- Linux administration and CLI workflows  
+- Python scripting for security automation  
+- Web & network pentesting labs (TryHackMe / PortSwigger)  
+- Packet analysis using Wireshark  
+
+---
+
+## 🔥 Interests
+- Offensive security & red-team methodology  
+- Cloud security (AWS VPC, IAM, segmentation, detection)  
+- Identity security & access hardening  
+- Security engineering & tooling  
+- OSINT and operational security
+
+---
+
+## 🛠️ Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Wireshark](https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=nmap)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burp)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 📈 Learning Roadmap
+- **Sem 2:** Networking + Network Security  
+- **Sem 3:** Python + Offensive Security  
+- **Sem 4:** Cloud Security (AWS)  
+
+---
+
+## ✉️ Contact
+📧 *your email here*  
+
+---
+
+> “Understand the system. Understand the traffic. Secure it — or exploit it.”
