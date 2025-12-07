@@ -33,7 +33,7 @@
 ---
 
 ## ✉️ Contact
-📧 *your email here*  
+📧 *ishmeet.cybersec@gmail.com*  
 
 ---
 
