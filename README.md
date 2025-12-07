@@ -32,8 +32,9 @@
 
 ---
 
-## ✉️ Contact
-📧 *ishmeet.cybersec@gmail.com*  
+## 📫 Contact & Portfolio
+[![Email](https://img.shields.io/badge/Email-cyberfolio.dev@gmail.com-black?style=flat-square)](mailto:ishmeet.cybersec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://www.linkedin.com/in/ishmeet-singh-2a4029378/)
 
 ---
 
