@@ -5,8 +5,8 @@
 ---
 
 ## 🌱 Currently Exploring
-- Networking fundamentals & subnetting  
-- Linux administration and CLI workflows  
+- Linux administration and CLI workflows
+- Networking fundamentals & subnetting    
 - Python scripting for security automation  
 - Web & network pentesting labs (TryHackMe / PortSwigger)  
 - Packet analysis using Wireshark  
